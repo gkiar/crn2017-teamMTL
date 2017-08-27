@@ -270,7 +270,8 @@ body {
 .reveal section img {
   margin: 0px 0px;
   background: rgba(255, 255, 255, 0);
-  border: 2px solid #657b83;
+  max-height: 90%;
+  //border: 2px solid #657b83;
   }
 //box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);}
 
